@@ -1,3 +1,5 @@
+# from parent lambda a child lambda is invoked
+
 import json
 
 def lambda_handler(event, context):
